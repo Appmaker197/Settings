@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_edittext_preference">Edit text</string>
+    <string name="summary_edittext_preference">Make Custom Text</string>
+    <string name="dialog_title_edittext_preference">Enter your text</string>
+    <string name="title_checkbox_preference">InVisability</string>
+    <string name="summary_checkbox_preference">TextView InVisability</string>
+    <string name="app_name">FragmentPreference</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="inline_preferences">TextView</string>
+    <string name="inline_preferences2">Website</string>
+    <string name="launch_preferences">Launch preferences</string>
+    <string name="summary_intent_preference">Go To Website</string>
+    <string name="title_intent_preference">Go To Website</string>
+</resources>
